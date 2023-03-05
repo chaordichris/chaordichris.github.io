@@ -4,8 +4,8 @@ title: About me
 subtitle: My Professional Profile
 ---
 
-I am an data scientist experienced in building self-service decision tools from end-to-end. The tools I use most often are python, Snowflake, R, and Power BI. 
+I am an data scientist experienced in building self-service decision tools from end-to-end. I often use python, Snowflake, R, and Power BI. 
 
-### My story
+<!-- ### My story -->
 
-I haven't decided if I like this section of the site template yet. 
+<!-- I haven't decided if I like this section of the site template yet.  -->
