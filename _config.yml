@@ -22,9 +22,9 @@ author: Chris Patrick
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: ""
-    - Learn markdown: ""
-  Projects: ""
+    - Beautiful Jekyll: "blah"
+    - Learn markdown: "blah"
+  Projects: "blah"
 
 ################
 # --- Logo --- #
