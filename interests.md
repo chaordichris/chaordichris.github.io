@@ -8,6 +8,7 @@ Here are some of my favorite websites to browse and podcasts to listen to.
 
 Golf:
 * [The Golfer's Journal](https://www.thegolfersjournal.com)
+* [GolfWRX](golfwrx.com)
 
 Data Science, Math, AI:
 * [OpenAI](https://openai.com/)
@@ -23,6 +24,9 @@ Podcasts:
 * [The Innovation Show](https://theinnovationshow.io/)
 
 Sports Science and Fitness:
+* [Driveline Baseball](https://www.drivelinebaseball.com/)
+* [Titleist Performance Institute](https://www.mytpi.com/)
+* [Alan Couzens](https://www.alancouzens.com/)
 
 
 
