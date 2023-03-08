@@ -21,10 +21,10 @@ author: Chris Patrick
 
 navbar-links:
   About Me: "aboutme"
-  Interests:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "https://deanattali.com"
+  Interests: "interests"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "chaordichris.github.io"
 
 ################
 # --- Logo --- #

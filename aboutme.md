@@ -8,4 +8,4 @@ My name is Chris Patrick, I'm a data scientist and statistician. I am interested
 
 ### A little bit more
 
-I am from the Indianpolis, IN area and studied at Purdue University. Outside of work I enjoy golf, sports, markets and am always learning.
+I am from the Indianpolis, IN and studied staistics at Purdue University. Outside of work I enjoy golf, sports, markets and am always learning.
