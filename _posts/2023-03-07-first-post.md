@@ -3,8 +3,8 @@ layout: post
 title: First post
 subtitle: stepping into the internet
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/shellfish.jpg
+share-img: /assets/img/shellfish.jpg
 tags: 
 ---
 
