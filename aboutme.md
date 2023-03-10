@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Personal Profile
+# subtitle: Personal Profile
 ---
 
 My name is Chris, I'm a data scientist and statistician. I am interested all things complex, dynamic, emergent, and non-linear. The name of this site is an ode to Dee Hock and his concept, "chaordic", described on his [site](http://www.deewhock.com/) as follows:
