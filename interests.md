@@ -4,7 +4,7 @@ title: Interests
 subtitle: things that I enjoy
 ---
 
-Here are some of my favorite websites to browse and podcasts to listen to.
+Here are some of my favorite websites to browse, books to read and podcasts to listen to
 
 Golf:
 * [The Golfer's Journal](https://www.thegolfersjournal.com)
@@ -30,3 +30,5 @@ Podcasts:
 * [Invest Like the Best](https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909)
 * [The Golfers Journal Podcast](https://www.golfersjournal.com/category/podcast/)
 * [The Innovation Show](https://theinnovationshow.io/)
+
+Books:
