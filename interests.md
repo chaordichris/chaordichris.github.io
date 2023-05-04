@@ -11,6 +11,7 @@ People
 * [Nassim Taleb](https://www.fooledbyrandomness.com/)
 * [Ryan Singer](feltpresence.com)
 * [Alan Couzens](https://www.alancouzens.com/)
+* [Robert Frey](http://keplerianfinance.com/)
 
 Websites:
 * [GolfWRX](golfwrx.com)
