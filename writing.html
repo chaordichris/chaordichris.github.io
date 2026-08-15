@@ -1,0 +1,25 @@
+---
+layout: site
+title: Writing
+description: Notes on systems, learning, and making.
+permalink: /writing/
+---
+
+<header class="page-header">
+  <p class="eyebrow">Writing</p>
+  <h1>Notes in progress.</h1>
+  <p>Short pieces about learning widely, making deliberately, and finding pattern in complicated things.</p>
+</header>
+
+<section class="list" aria-label="Writing archive">
+  {% for post in site.posts %}
+  <article class="list-item">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+    <a class="list-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="list-meta">Read</span>
+    {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</section>
+
+<p class="home-note">More fragments appear on <a href="{{ site.x_url }}" rel="me">X</a>; working notes and code live on <a href="{{ site.github_url }}" rel="me">GitHub</a>.</p>
